@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        test
+        Source map bug demo
       </h1>
       <h2 class="subtitle">
         My impeccable Nuxt.js project
